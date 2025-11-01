@@ -25,7 +25,7 @@ and (in the next version) automatically visualize insights using **Chart.js** an
 | **JavaScript (ES6+)** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> | Used to build logic, handle events, and process CSV data. |
 | **HTML5** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> | Provides the structure and semantics for the web pages. |
 | **CSS3** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> | Used for styling, transitions, and animations in the UI. |
-| **React Router DOM** | <img src="https://raw.githubusercontent.com/remix-run/react-router/main/docs/_static/og.png" width="40"/> | Enables multi-page navigation between Landing and Work pages without reloading. |
+
 | **Chart.js** | <img src="https://www.chartjs.org/img/chartjs-logo.svg" width="40"/> | (Upcoming) For rendering interactive and responsive charts from CSV data. |
 | **PapaParse** | <img src="https://avatars.githubusercontent.com/u/10460741?s=200&v=4" width="40"/> | (Optional) Fast CSV parser for JavaScript, used for converting CSV into JSON format. |
 
